@@ -1,60 +1,220 @@
 <div align="center">
 
-# Pranav Kannan
+# `> whoami`
+# Hey, I'm Pranav K Kannan 👋
 
-**Software Engineer — Full-Stack Development · AI/ML Engineering · Cybersecurity**
+### Developer • Builder • Hardware Tinkerer • Open-Source Enthusiast
 
-Building reliable, well-designed software, from responsive web interfaces to computer vision and audio-processing pipelines.
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=00F5A0&center=true&vCenter=true&width=750&lines=I+build+things+because+I+want+to+know+how+they+work.;AI+%7C+Systems+%7C+Cloud+%7C+Hardware;Breaking+stuff.+Understanding+it.+Building+it+better.;Shipping+weird+ideas+into+working+prototypes." alt="Typing SVG" />
 
-[![GitHub](https://img.shields.io/badge/GitHub-pranavpk--05-181717?style=flat-square&logo=github)](https://github.com/pranavpk-05)
-<!-- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin)](https://linkedin.com/in/YOUR-HANDLE) -->
-<!-- [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:YOUR-EMAIL) -->
-<!-- [![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0F172A?style=flat-square&logo=vercel&logoColor=white)](https://YOUR-SITE) -->
+<br/>
+
+[![GitHub](https://img.shields.io/badge/GitHub-pranavpk--05-181717?style=for-the-badge&logo=github)](https://github.com/pranavpk-05)
+![Profile Views](https://komarev.com/ghpvc/?username=pranavpk-05&style=for-the-badge&color=00b894)
 
 </div>
 
 ---
 
-## About
+## `~/about-me`
 
-I am a software engineer who builds across the stack, with a focus on AI-powered applications. My work combines modern frontend engineering, Python-based backends, and machine learning, with a growing interest in application security. I am available for freelance engagements.
+```yaml
+name: Pranav K Kannan
+role: Computer Science Student + Builder
+location: Kerala, India
 
-## Core Competencies
+currently_into:
+  - AI systems
+  - computer vision
+  - on-device inference
+  - cloud infrastructure
+  - developer tools
+  - systems programming
+  - hardware experiments
+  - open source
 
-| Area | Technologies |
-| :-- | :-- |
-| **Frontend** | React, Next.js, Vite, TypeScript, Tailwind CSS |
-| **Backend** | Node.js, FastAPI, Python, Rust |
-| **AI / ML** | PyTorch, OpenCV, YOLO, text-to-speech and voice cloning |
-| **Security** | Ethical hacking fundamentals, secure development practices |
-| **Tooling** | Git, GitHub, Linux |
+philosophy: "Build it. Break it. Understand it. Rebuild it better."
+```
 
-## Selected Projects
+I like building things that are technically interesting — sometimes useful, sometimes completely unnecessary, but almost always fun.
 
-| Project | Description | Stack |
-| :-- | :-- | :-- |
-| [**Background Object Recognizer**](https://github.com/pranavpk-05/background-detetction) | On-device webcam application that detects 80 object classes with YOLO11 and identifies persistent objects as background. No cloud processing. | Python, YOLO11, OpenCV |
-| **AI Dubbing Pipeline** | Converts subtitle (SRT) files into voice-cloned speech and assembles time-synchronized audio tracks for films and series. | Python, TTS |
-| **Video Face Cloner** | Web application for motion transfer between faces in video. | React, Vite, FastAPI |
-| **Browser-Based PDF Tools** | Client-side PDF utilities: imposition, compression, watermarking, and image extraction. | JavaScript, Web APIs |
-| **Astra** | Personal AI analyst exploring prompt design and agent-style workflows. | Python, LLMs |
+Most of my work sits somewhere between **software, AI, systems, cloud and hardware**.  
+I enjoy taking an idea from *"this would be cool"* to an actual working prototype.
 
-## GitHub Activity
+- 🛠️ Hackathon participant and organizer
+- 👥 Co-led my campus **TinkerHub** chapter
+- ⚡ Former **GDG on Campus Technical Lead**
+- 🎤 Conducted technical workshops and community sessions
+- 🐧 Interested in **FOSS, open source and local-first software**
+- 🤖 Experimenting with **AI, computer vision and on-device models**
+
+---
+
+## `~/featured-builds`
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 👁️ [EyeOS](https://github.com/pranavpk-05/eyeos)
+
+A **local-first eye-control system for Windows 11**, built with a safety-first architecture.
+
+**Under the hood:**
+- Rust
+- MediaPipe
+- OpenVINO
+- gaze-vector inference
+- per-user calibration
+- CPU-only local inference
+- Windows desktop interaction
+
+No cloud webcam processing.  
+No pretending accessibility software should depend on expensive hardware.
+
+</td>
+
+<td width="50%" valign="top">
+
+### ☁️ [AWS Student Registration](https://github.com/pranavpk-05/cloud)
+
+A cloud-deployed Flask application built around an AWS infrastructure stack.
+
+**Stack:**
+- Flask
+- AWS EC2
+- RDS / MySQL
+- S3
+- IAM
+- CloudFormation
+- VPC networking
+- systemd deployment
+
+Built to understand the full path from **application → infrastructure → deployment**.
+
+</td>
+</tr>
+
+<tr>
+<td width="50%" valign="top">
+
+### 🖥️ [Employee Dashboard](https://github.com/pranavpk-05/EmployeeDashboard)
+
+One of my application-development experiments around dashboard-style interfaces and data-driven workflows.
+
+> Still building, still learning, still committing.
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🧪 [More experiments →](https://github.com/pranavpk-05?tab=repositories)
+
+My GitHub is basically a lab notebook.
+
+Expect:
+- prototypes
+- hackathon builds
+- experiments
+- broken ideas
+- revived ideas
+- networking labs
+- AI projects
+- things made at unreasonable hours
+
+</td>
+</tr>
+</table>
+
+---
+
+## `~/tech-stack`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=pranavpk-05&show_icons=true&theme=default&hide_border=true&title_color=0F172A&icon_color=334155&text_color=475569&bg_color=00000000" alt="GitHub statistics" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpk-05&layout=compact&theme=default&hide_border=true&title_color=0F172A&text_color=475569&bg_color=00000000" alt="Top languages" />
+### Languages
+
+<img src="https://skillicons.dev/icons?i=python,rust,java,c,cpp,kotlin,dart,js,html,css&perline=10" />
+
+### Frameworks / Platforms / Tools
+
+<img src="https://skillicons.dev/icons?i=flutter,flask,spring,aws,docker,linux,git,github,vscode,androidstudio,mysql,mongodb&perline=12" />
 
 </div>
 
-## Focus Areas
+---
 
-- Developing AI-driven applications that combine computer vision, audio, and web interfaces
-- Deepening machine learning engineering skills through applied, portfolio-grade projects
-- Studying application security and ethical hacking
-- Expanding Rust experience for performance-sensitive components
+## `~/what-i-like-building`
 
-## Collaboration
+```text
+[01] AI that can actually run outside a notebook
+[02] Computer-vision interfaces
+[03] Local / on-device AI
+[04] Developer tools and automation
+[05] Cloud-backed applications
+[06] Networking + systems experiments
+[07] Hardware/software hybrids
+[08] Weird hackathon ideas that somehow work
+```
 
-Open to freelance and contract work in full-stack web development and AI/ML engineering. Reach out through the links above to discuss a project.
+---
+
+## `~/github-stats`
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranavpk-05&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranavpk-05&layout=compact&hide_border=true&theme=transparent" />
+
+<br/>
+
+<img src="https://streak-stats.demolab.com?user=pranavpk-05&theme=transparent&hide_border=true" />
+
+</div>
+
+---
+
+## `~/currently`
+
+```bash
+$ cat current_focus.txt
+
+→ building more technically ambitious projects
+→ exploring local AI + computer vision
+→ getting deeper into systems and infrastructure
+→ contributing more to open source
+→ turning random ideas into things people can actually use
+```
+
+---
+
+## `~/developer-mode`
+
+```rust
+fn main() {
+    loop {
+        learn();
+        build();
+        break_things();
+        debug();
+        improve();
+        ship();
+    }
+}
+```
+
+<div align="center">
+
+### `$ sudo make something_cool`
+
+**If a project looks interesting, open it.  
+If something can be improved, send a PR.  
+If you have a wild idea, let's build it.**
+
+<br/>
+
+![Made with caffeine](https://img.shields.io/badge/powered%20by-caffeine-6F4E37?style=for-the-badge&logo=buymeacoffee&logoColor=white)
+![Build Status](https://img.shields.io/badge/build-passing-00b894?style=for-the-badge)
+![Ideas](https://img.shields.io/badge/ideas-unnecessarily%20ambitious-6c5ce7?style=for-the-badge)
+
+</div>
